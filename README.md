@@ -41,3 +41,5 @@ If you run into a problem, open an issue with your console model or emulator ver
 My color adaptation builds on [Red Viper 1.3.4 by skyfloogle and contributors](https://github.com/skyfloogle/red-viper/tree/e28d8f53da32c37fac625368a1bae59d902eaf48), r3Ddragon, Reality Boy by David Tucker and Red Dragon. The palette format and painted color packs come from [VBoyColor by yuk27](https://github.com/yuk27/VBoyColor/tree/4567a05845449895e2b3a8ca79e45b49bb1ffbcb).
 
 This project was developed with the help of [OpenAI Codex](https://openai.com/codex/) and [Claude Code](https://claude.com/product/claude-code). Learn more about the development process [here](AI_DEVELOPMENT.md).
+
+[Join Esteban's Forge on Discord](https://discord.com/servers/esteban-s-forge-1533248895663210506)
