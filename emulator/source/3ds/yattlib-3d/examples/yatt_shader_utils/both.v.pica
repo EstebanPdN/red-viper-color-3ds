@@ -1,0 +1,4 @@
+; Example shader for a program with only a vertex shader.
+; The contents are irrelevant, apart from uniforms.
+
+.fvec uniform_both_v
