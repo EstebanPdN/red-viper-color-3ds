@@ -1,0 +1,16 @@
+e9518391444dfba737f9ae546b6a4fc9ad618786732f64f5104f5f804812c91d  3-D Tetris (USA).vbcp
+a3268275a2e2d29b048edf544c0585a67d246c718147fbd34c6ee24765631956  Bound High (Japan) (En) (Proto).vbcp
+cc9cf2bddf4bec4910c3673330f20cd3b5a499783eb20e5f0121d996df66a144  Galactic Pinball (Japan, USA).vbcp
+db790ad519d407e039ab502d721342b7f12f42fe1ed62078215d475dca6a966b  Golf (USA).vbcp
+df689ab79810b8200c0ba10fab7d32030fd2f44b99c25d452c47996e3fde067e  Innsmouth no Yakata (Japan).vbcp
+10d017f59b1eed36e66c0637ea72ab048fdd8c50d4e2b366508233944dc37d5e  Jack Bros. (USA).vbcp
+42cee342a4871d64f024d7f500b6de0e5fdaa0fcf0a5fa0b3a83ae5bd0f0d4b5  Mario Clash (Japan, USA).vbcp
+3410b9a4bff70caa5fc28688902a49de4c57f926a90d50442576d8ec493e9e05  Mario's Tennis (Japan, USA).vbcp
+9dfeb12243eeb76507960474926f8c93ffc135d757160a63ec3d9a91772eb045  Panic Bomber (USA).vbcp
+c7cfd955f67af0ec40e614bce98a336ced24a4b0acfce6f37824c074faee5c72  Red Alarm (USA).vbcp
+ac300cb6589b469d19b070ed111f562633dc09487cbd627ed160c47ead2a5836  Space Invaders - Virtual Collection (Japan).vbcp
+2a27d6370b16323cc8dac46b6faf08dc24b39522386656b6420395fa66d146f1  Teleroboxer (Japan, USA).vbcp
+f406809981c9e881e5ea9c860422df9ef372d88b0c9b41c0f0fdd8b8c494fe1d  V-Tetris (Japan).vbcp
+21ecbec83f4fe4d6b8d33733eb2c9777c959a37060960d88b52156d8f893018c  Vertical Force (USA).vbcp
+f10f39f09bc8a276cdb8042084e054fd29f65f82af2299d08eb2f23d12a89e5b  Virtual Bowling (Japan).vbcp
+de532807cdffd1f574f7d668c8a0670fa5992f5c9576fa1b4df53abf38e407a8  Virtual Boy Wario Land (Japan, USA).vbcp
